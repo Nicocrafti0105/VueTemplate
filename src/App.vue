@@ -7,5 +7,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <style scoped>
-
+  template {
+    align-items: baseline;
+  }
 </style>
